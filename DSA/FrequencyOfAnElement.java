@@ -18,6 +18,6 @@ public class FrequencyOfAnElement {
         System.out.println("before sort"+Arrays.toString(arr));
 //        Frequency(arr);
         System.out.println("after srt "+ Arrays.toString(arr));
-        System.out.println("the max element  is obtain "+Arrays.toString(Frequency(arr)));
+        System.out.println("the max element occurrence "+Arrays.toString(Frequency(arr)));
     }
 }
